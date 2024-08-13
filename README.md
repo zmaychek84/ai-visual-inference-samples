@@ -1,3 +1,10 @@
+# DISCONTINUATION OF PROJECT
+This project will no longer be maintained by Intel.  
+This project has been identified as having known security escapes.  
+Intel has ceased development and contributions including, but not limited to, maintenance, bug fixes, new releases, or updates, to this project.  
+Intel no longer accepts patches to this project.  
+
+
 # Intel® AI Visual Inference Samples
 
 Intel® AI Visual Inference Samples are easy to use python* scripts implementations of workloads with media and AI inference pipelines. The samples are based on media and AI inference frameworks to demonstrate performance of Intel® Data Center GPU Flex Series. 
